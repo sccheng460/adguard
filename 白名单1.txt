@@ -1,3 +1,5 @@
+wxsnsdy.wxs.qq.com
+heytapmobi.com
 wb.amap.com
 api5-normal-lf.fqnovel.com
 cards.iqiyi.com
@@ -975,7 +977,7 @@ portal.biliapi.net
 tencent-cloud.com
 jomodns.com
 mi.com
-360秒afe.com
+360safe.com
 360.cn
 heytapdownload.com
 updatem.360safe.com
