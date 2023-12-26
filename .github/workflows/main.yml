@@ -17,7 +17,7 @@ jobs:
           
       - name: Update ReadMe
         run: |
-          bash ./data/script/clean-readme.sh
+          bash ./data/rules.sh
 
       - name: Git push assets to Github
         run: |
