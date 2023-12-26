@@ -11,6 +11,10 @@ cd tmp
 
 echo '下载规则'
 rules=(
+   "https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt"   #ADGK
+"https://raw.githubusercontent.com/lingeringsound/adblock/master/adblock_lite"   #混合规则(精简版)
+"https://ghproxy.net/https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/dns.txt"    #dd带佬dns
+"https://ghproxy.net/https://raw.githubusercontent.com/xndeye/adblock_list/main/rule/dns.txt"  #adblock
   
 )
 
