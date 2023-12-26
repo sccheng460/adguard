@@ -13,11 +13,11 @@ jobs:
       - name: Update Rules
         continue-on-error: true
         run: |
-          bash ./data/rules.sh
+          bash ./data/Rule/rules.sh
           
       - name: Update ReadMe
         run: |
-          bash ./data/rules.sh
+          bash ./data/Rule/rules.sh
 
       - name: Git push assets to Github
         run: |
