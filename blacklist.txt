@@ -1,5 +1,41 @@
-﻿#酷安
-||ctobsnssdk.com^||pangolin.snssdk.com^||pangolin-sdk-toutiao.com^||pangolin-sdk-toutiao-b.com^||pglstatp-toutiao.com^||dm.toutiao.com^||ulogs.umeng.com^||aaid.umeng.com^||tnc*.zijieapi.com^||mssdk-bu.bytedance.com^! 帖子详情好物推荐||api2.coolapk.com/v6/feed/detail$replace=/"include_goods_ids":\[.*?]\,"include_goods":\[.*?]\,/ /! 帖子详情赞助内容||api2.coolapk.com/v6/feed/detail$replace=/\,"detailSponsorCard":{.*}/}}/! 发现页去除酷品||api2.coolapk.com/v6/main/init$replace=/{"id":1170.*?}\,/ /! 应用游戏页去除推广视频||api2.coolapk.com/v6/page/dataList$replace=/{"entityType":"card"\,"entityTemplate":"apkImageCard".*?\\u0022}"}\,/ /! 去除首页还有什么值得买推广||api2.coolapk.com/v6/main/indexV8$replace=/{"entityType":"card"\,"entityTemplate":"listCard".*?}"}\,/ /||ctobsnssdk.com^||pangolin.snssdk.com^||pangolin-sdk-toutiao.com^||pangolin-sdk-toutiao-b.com^
+！酷安
+﻿||h.trace.qq.com^
+||sdk.e.qq.com^
+||ctobsnssdk.com^
+||pangolin.snssdk.com^
+||pangolin-sdk-toutiao.com^
+||pangolin-sdk-toutiao-b.com^
+||pglstatp-toutiao.com^
+||dm.toutiao.com^
+||ulogs.umeng.com^
+||aaid.umeng.com^
+||tnc*.zijieapi.com^
+||mssdk-bu.bytedance.com^
+||ctobsnssdk.com^
+||pangolin.snssdk.com^
+||pangolin-sdk-toutiao.com^
+||pangolin-sdk-toutiao-b.com^
+||img14.360buyimg.com^
+||gdtimg.com^
+||shuzilm.cn^
+||telecome.cn^
+||log.tpns.tencent.com^
+||access1.tpns.tencent.com^
+||avatar.coolapk.com^
+||guid.tpns.tencent.com^
+||api2.coolapk.com^
+||media.9game.cn^
+||pp.myapp.com^
+||bzib.nelreports.net^
+||alt5-mtalk.google.com^
+||business.bing.com^
+||api.coolapk.com^
+||video.weibocdn.com^
+||image.coolapk.com^
+||sinaimg.cn^
+||geetest.com^
+||alt1-mtalk.google.com^
+||mtalk.google.com^
 ！miui
 127.0.0.1 localhost
 ::1 ip6-localhost
