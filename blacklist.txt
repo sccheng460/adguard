@@ -30,7 +30,6 @@
 ||alt5-mtalk.google.com^
 ||business.bing.com^
 ||api.coolapk.com^
-||video.weibocdn.com^
 ||image.coolapk.com^
 ||sinaimg.cn^
 ||geetest.com^
