@@ -1,3 +1,5 @@
+！腾讯乘车码小程序
+||ccmsupport-sz.tenpay.com^
 ！soul
 ||soul-ad.soulapp.cn^
 ||ad-r.soulapp.cn^
