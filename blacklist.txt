@@ -165,11 +165,7 @@
 ||p2-pro.a.yximgs.com^$app=com.njh.biubiu
 ！腾讯乘车码小程序
 ||ccmsupport-sz.tenpay.com^
-！soul
-||soul-ad.soulapp.cn^
-||ad-r.soulapp.cn^
-||ad-h5-station-cdn.soulapp.cn^
-||ad-h5-cdn.soulapp.cn^
+
 ！酷安
 ﻿||h.trace.qq.com^
 ||sdk.e.qq.com^
