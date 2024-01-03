@@ -1,3 +1,4 @@
+@@||swimg1.hstdyf.com^$important
 @@||www.hao123.com^$important
 @@||dns.adguard.com^$important
 @@||dns-family.adguard.com^$important
