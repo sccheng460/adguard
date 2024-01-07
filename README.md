@@ -1,4 +1,4 @@
-# adg
+# adguard-rules
 个人自用黑白名单
 
 <summary>规则列表</summary>
