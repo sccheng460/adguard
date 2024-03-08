@@ -1,3 +1,14 @@
+#向日葵
+||upload-cdn.orayimg.com^$important
+
+#乔安智联
+||adx-bj.anythinktech.com^$important
+
+#中国联通--会手机管家不可用
+||m.client.10010.com^$important
+
+#中国广电
+||h5.10099.com.cn^$important
 #酷安
 
 ||ctobsnssdk.com^
