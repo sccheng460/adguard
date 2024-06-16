@@ -1,3 +1,5 @@
+##瑞幸
+@@||dualstack-a.apilocate.amap.com^$important
 ##番茄小说
 @@||log5-applog.fqnovel.com^
 @@||p6-novel.byteimg.com
