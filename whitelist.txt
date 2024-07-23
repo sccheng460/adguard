@@ -4,6 +4,13 @@
 @@||dpurl.cn^$important
 @@||market.waimai.meituan.com^$important
 ##夸克
+@@||px.wpk.quark.cn^$important
+@@||dw-data-channel.quark.cn^$important
+@@||adashx.m.taobao.com^$important
+@@||aeventlog.beacon.qq.com^$important
+@@||applog.lc.quark.cn^$important
+@@||api2-album.quark.cn^$important
+@@||api-album.quark.cn^$important
 @@||masterconn2.qq.com^$important
 ##瑞幸
 @@||dualstack-a.apilocate.amap.com^$important
