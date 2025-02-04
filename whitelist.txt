@@ -1,3 +1,4 @@
+www.ly.com
 @@||game.weixin.qq.com^$important
 @@||in.appcenter.ms^$important
 @@||quark.cn^
