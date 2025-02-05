@@ -1,3 +1,8 @@
+||soul-api.soulapp.cn^$important
+||ads.soulapp.cn^$important
+||tracker.soulapp.cn^$important
+||s0n9app.com^$important
+||ad.duapps.com^$important
 ||im-x.jd.com^$important
 #向日葵
 ||upload-cdn.orayimg.com^$important
