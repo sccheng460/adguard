@@ -1,11 +1,15 @@
-www.ly.com
+@@||credit.heytap.com^$important
+@@||credit-cdn.heytap.com^$important
+@@||apmfront.17u.cn^$important
+@@||train.17u.cn^$important
+@@||wx.17u.cn^$important
+@@||file.40017.cn^$important
 @@||game.weixin.qq.com^$important
 @@||in.appcenter.ms^$important
 @@||quark.cn^
 @@||io75a.ocloud.heytapmobi.com^$important
 @@||apd-pcdnwxstat.teg.tencent-cloud.net^$important
 @@||quark.sm.cn^$important
-||im-x.jd.com^$important
 @@||dreport.meituan.net^$important
 @@||fcbox.cfcom
 @@||dsp.fcbox.com^$important
